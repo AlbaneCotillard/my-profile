@@ -1,0 +1,131 @@
+body {
+	background-color:#deeff5;
+	color: deeppink;	
+	font-family: Montserrat;
+	text-align: center;
+}
+
+h1, h2 {
+	text-align: center;
+	color : deeppink;
+	font-family: Lora;
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+h2{
+	text-decoration-line: underline;
+}
+
+p{
+	text-align: justify;
+	text-align: center;
+	color: black;
+}
+
+.btn-blue {
+	text-decoration: none;
+	color: purple;
+	background-color: rgb(204, 204, 255);
+	padding: 10px 20px;
+	border: 2px ridge #FF1493;
+	margin-bottom: 40px;
+}
+
+.btn-blue:hover {
+	color: black;
+	font-size: 19px;
+}
+
+.list-inline{
+	list-style: none;
+	padding-left: 0px ;
+}
+
+.list-inline li {
+	padding: 10px;
+	
+}
+.list-inline i {
+	padding: 10px;
+	font-size: 35px;
+}
+.list-inline i:hover {
+	padding: 10px;
+	font-size: 45px;
+}
+
+
+
+
+
+a:hover {
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+}
+#fabfa-instagram {
+	width: 50%;
+}
+
+#photo-arrondi {
+	border-radius: 0%;
+	border: thick double #ce3276;
+	border-width: 4px;
+	border-color: black;
+	box-shadow: 2px 2px 2px rgb(216,170,239);
+}
+
+.card-white {
+	border-radius: 3%;
+	border: solid;
+	border-width: 2px;
+	border-color: #deeff5;
+	box-shadow: 1px 1px 1px rgb(216,170,239);
+	background-color: #FFFFFF;
+	padding-top: 13px;
+	padding-bottom:20px ;
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-bottom: 40px;
+}
+
+.container {
+	margin: 30px auto;
+	width: 700px;
+}
+
+@media (max-width : 800px) {
+	.container {
+		width: 700px;
+	}
+@media (max-width : 600px) {
+	.container {
+		width: 700px;
+	}
+.list-inline{
+	list-style: none;
+	padding-right: 0px;
+	display: inline-block;
+}
+
+#introduction p{
+	margin-bottom: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
